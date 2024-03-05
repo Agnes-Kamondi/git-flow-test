@@ -1,0 +1,42 @@
+.nav{
+    float: left;
+    text-align: center;
+    display: flex;
+    font-size: medium;
+    gap: 10%;
+}
+.container{
+    border: 1px solid white;
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+    padding: 50px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img{
+    width: 30px;
+
+}
+#frame{
+    border: 60px solid rgb(214, 214, 214);
+    border-radius: 25px;
+    width: 70%;
+    padding: 30px;
+    margin: 30px;
+
+    
+}
+button{
+    position:absolute;
+    background-color: black;
+    color: white ;
+    padding: 10px;
+}
+input{
+    padding: 10px;
+    width: 15%;
+}
+#input{
+    position:relative;
+}
