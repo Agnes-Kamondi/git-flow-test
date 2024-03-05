@@ -24,6 +24,7 @@ img{
     width: 70%;
     padding: 30px;
     margin: 30px;
+    display: flex;
 
     
 }
@@ -39,4 +40,14 @@ input{
 }
 #input{
     position:relative;
+}
+.image{
+    width: 300px;
+    height:550px;
+    padding : 80px;
+}
+#div2{
+    border: 1px solid;
+    background-color: rgb(240, 101, 124);
+    border-radius: 10px;
 }
